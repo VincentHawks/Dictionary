@@ -1,0 +1,8 @@
+{
+  "add": ["Test", "sequence."],
+  "swap": {
+    "index": -1,
+    "body": []
+  },
+  "delete": 1
+}

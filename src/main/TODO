@@ -1,0 +1,5 @@
+- Add search functionality (although it may be left to the frontend)
+- Containerize:
+    - Setup Dockerfile
+    - Figure out how to build it properly
+
